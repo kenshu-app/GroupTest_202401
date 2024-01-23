@@ -1,2 +1,9 @@
 @charset "UTF-8";
 
+main {
+  background: linear-gradient(#eee, #ccc);
+}
+
+.hero {
+  background: url("https://picsum.photos/1200/300") 0 0 / cover no-repeat;
+}
